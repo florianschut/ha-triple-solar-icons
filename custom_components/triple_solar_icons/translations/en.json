@@ -1,0 +1,12 @@
+{
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Already configured. Only a single configuration is possible."
+    },
+    "step": {
+      "user": {
+        "description": "Adds the Triple Solar icons, such as triple-solar:pika, to Home Assistant. Reload the page in your browser afterwards to use them."
+      }
+    }
+  }
+}

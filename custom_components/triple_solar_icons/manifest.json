@@ -1,0 +1,13 @@
+{
+  "domain": "triple_solar_icons",
+  "name": "Triple Solar icons",
+  "codeowners": ["@florianschut"],
+  "config_flow": true,
+  "dependencies": ["frontend", "http"],
+  "documentation": "https://github.com/florianschut/ha-triple-solar-icons",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/florianschut/ha-triple-solar-icons/issues",
+  "single_config_entry": true,
+  "version": "0.1.0"
+}
